@@ -1,8 +1,6 @@
-###### PROFILE JORGE GIL.
-
+## Profile Jorge Gil
 
 ###### 🌱 I’m currently learning ...
-
 
 My name is Jorge Gil, I'm from Medellín, Colombia and I'm an SysAdmin
 
