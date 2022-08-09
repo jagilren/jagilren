@@ -10,14 +10,16 @@ My name is Jorge Gil, I'm from Medellín, Colombia and I'm an SysAdmin
 
 ## Skills
 
-* Using Mikroitk Routers  from 2016
-* SysAdmin in Microsoft Windows EcoSystems.
-* Scripting with PowerShell
-* Critical thinking, decision-making and problem solving skills
-* Some Python coding
-* Some Skill in macOS and Apple's EcoSystem
-* Special skills and experience in VBA, PowerQuery and Excel Data Analisys
-* English read (fluent), Conversational (begginer)
+* Using Mikrotik Routers  and Mikrotik Scripting from 2016
+* Ubiquiti Wifi Plattform.
+* SysAdmin in Microsoft Windows EcoSystems from 2006.
+* Microsoft Office and Office 365
+* Scripting with PowerShell.
+* Critical thinking, decision-making and problem solving skills.
+* Some Python coding.
+* Some Skill in macOS and Apple's EcoSystem.
+* Special skills and experience in VBA, PowerQuery and Excel Data Analisys.
+* English read (fluent), Conversational (begginer).
 
 ## Contact
 
