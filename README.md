@@ -22,7 +22,6 @@ My name is Jorge Gil, I'm from Medellín, Colombia and I'm an SysAdmin
 
 Find all of my socials and resume in my [website](https://fredrikson.com.ar)
 
-### 🌱 I’m currently learning ...
 
 <!--
 **jagilren/jagilren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
