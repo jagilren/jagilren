@@ -17,7 +17,7 @@ My name is Jorge Gil, I'm from Medellín, Colombia and I'm an SysAdmin
 * Some Python coding
 * Some Skill in macOS and Apple's EcoSystem
 * Special skills and experience in VBA, PowerQuery and Excel Data Analisys
-* English read (fluent)
+* English read (fluent), Conversational (begginer)
 
 ## Contact
 
